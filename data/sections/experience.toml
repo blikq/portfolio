@@ -1,0 +1,18 @@
+# The list of companies
+[[company]]
+  name = "Nappr, New York"
+  date = "2023 - 2024"
+  role = "Contract Full-Stack Engineer"
+  text = [
+    "I developed APIs and designed some parts of their system, contributing to the overall functionality and user experience.",
+    "My work involved implementing backend solutions, optimizing performance, and collaborating with the team to deliver high-quality software."
+  ]
+
+[[company]]
+  name = "Midtown Tech Hub"
+  date = "2022 - 2023"
+  role = "Full-Stack Engineer"
+  text = [
+    "I worked as a backend developer and tutor at Midtown Tech Hub",
+    "I gained valuable experience in developing robust backend solutions and mentoring others."
+  ]

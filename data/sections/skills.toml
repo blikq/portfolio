@@ -1,0 +1,25 @@
+
+[[skill]]
+  title = "Programming Languages"
+  text  = "Experienced in programming languages such as Rust, Python, JavaScript, Go...;. Proficient in object-oriented programming, functional programming, and scripting. Well-versed in data structures, algorithms, and design patterns."
+  icon  = "bx bx-code-alt"
+
+[[skill]]
+  title = "Web Development"
+  text  = "Experienced in web development technologies such as HTML, CSS, and JavaScript. Proficient in front-end frameworks such as React, Angular, and Vue.js. Well-versed in responsive design, cross-browser compatibility, and web performance optimization."
+  icon  = "bx bxs-component"
+
+[[skill]]
+  title = "Backend Development"
+  text  = "Experienced in backend development technologies such as Go-net, Actix-web and Django. Proficient in RESTful APIs, GraphQL, and microservices architecture. Well-versed in database management using SQL and NoSQL databases."
+  icon  = "bx-planet"
+
+[[skill]]
+  title = "Docker & Kubernetes"
+  text  = "Utilizing Docker, Swarm, and Kubernetes for developing and deploying applications. Proficient in multi-stage and multi-architecture builds, inclusive of docker-compose."
+  icon  = "bxl-docker"
+
+[[skill]]
+  title = "DevOps Practices"
+  text  = "Experienced in implementing DevOps practices such as infrastructure as code, configuration management, and monitoring. Proficient in using tools such as Terraform, Ansible, and Prometheus. Well-versed in logging, monitoring, and alerting."
+  icon  = "bx-cloud"

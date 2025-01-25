@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Portfolio</title>
+    <link>http://localhost:1313/Porto/posts/</link>
+    <description>Recent content in Posts on My Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2024 16:58:51 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/Porto/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/Porto/posts/hello-world/</link>
+      <pubDate>Thu, 25 Apr 2024 16:58:51 +0300</pubDate>
+      <guid>http://localhost:1313/Porto/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;-hello-world-im-al-ameen-musa&#34;&gt;👋 Hello World! I&amp;rsquo;m Al-ameen Musa&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a passionate developer who thrives on turning coffee into code. My expertise lies in Python, go, javascript and I&amp;rsquo;m particularly enchanted by the magic of Rust.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

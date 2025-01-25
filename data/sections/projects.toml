@@ -1,0 +1,8 @@
+
+[[project]]
+  title = "WebTop"
+  text = [
+    "Webtop is a lightweight, Rust-powered web server for real-time system monitoring. It provides a simple, responsive web interface that displays system information such as CPU usage, memory usage, disk space, and network activity.",
+  ]
+  link = "https://github.com/blikq/webtop"
+

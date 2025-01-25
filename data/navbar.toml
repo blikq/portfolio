@@ -1,0 +1,20 @@
+title = "hugo-porto"
+# logo  = "img/logo.svg"
+
+[[menu]]
+  text        = "Home"
+  description = "Welcome to my personal website"
+  link        = "/"
+  target      = "_self"
+
+[[menu]]
+  text        = "Posts"
+  description = "Read my latest posts"
+  link        = "/posts"
+  target      = "_self"
+
+[button]
+  enabled = true
+  text    = "Get my CV"
+  link    = "files/cv.pdf"
+  target  = "_blank"

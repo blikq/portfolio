@@ -1,0 +1,26 @@
+{{/* Default data */}}
+{{ $text := "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur, autem tempora provident nihil iste sint excepturi quasi asperiores. Vero itaque labore animi eveniet laboriosam? Dolore ea explicabo corrupti rerum exercitationem." }}
+{{ $image := "https://source.unsplash.com/800x450/?nature,water" }}
+
+{{/* Custom data from configuration file */}}
+{{ with site.Data.sections.custom }}
+  {{ with .text }}
+    {{ $text = . }}
+  {{ end }}
+  {{ with .image }}{{ $image = . }}{{ end }}
+{{ end }}
+
+
+<h2 class="text-center text-4xl md:text-5xl lg:text-7xl p-5 rounded-xl font-medium font-poppins text-gray-400">
+  Custom section
+</h2>
+<div class="text-gray-600 container mx-auto flex flex-col md:flex-row items-center justify-center p-5">
+  <div class="w-full md:w-1/2 p-5">
+    <p class="text-lg md:text-xl lg:text-2xl font-light font-poppins">
+      {{ $text }}
+    </p>
+  </div>
+  <div class="w-full md:w-1/2 p-5">
+    <img class="rounded-lg" src="{{ $image }}" alt="Custom image" />
+  </div>
+</div>

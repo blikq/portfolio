@@ -1,0 +1,17 @@
+baseURL      = 'https://blikq.github.io/Porto'
+languageCode = 'en-us'
+title        = 'My Portfolio'
+
+
+[params]
+  description = "Al-ameen Musa personal website"
+  keywords    = "Alameen Musa, personal website, blog, portfolio"
+
+  [params.author]
+    name = 'Al-ameen Musa'
+
+
+# Add theme using Hugo modules
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-porto/theme"

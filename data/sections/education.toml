@@ -1,0 +1,15 @@
+# The list of education places and courses
+[[education]]
+  date  = "2024 - 2025"
+  title = "AWS"
+  text  = "In pursuit of my AWS Soltions Architect Certificate."
+
+[[education]]
+  date  = "2021 - 2022"
+  title = "Udacity, California"
+  text  = "Further my Understanding of the web by studying to becoming a fullstack engineer."
+
+[[education]]
+  date  = "2020 -2021"
+  title = "Mikon Institute, Nigeria"
+  text  = "Got certified as a Python Developer."
