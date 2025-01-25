@@ -1,4 +1,4 @@
-baseURL      = 'https://blikq.github.io/Porto'
+baseURL      = 'https://blikq.github.io/'
 languageCode = 'en-us'
 title        = 'My Portfolio'
 
