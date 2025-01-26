@@ -1,0 +1,13 @@
+baseURL:  "https://blikq.github.io/Potfolio/"
+languageCode: en-US
+title: "My Potfolio"
+
+params:
+  description: "Al-ameen Musa personal website"
+  keywords: "Alameen Musa, personal website, blog, portfolio"
+  author:
+    name: "Al-ameen Musa"
+
+module:
+  imports:
+    - path: "github.com/hugo-porto/theme"
