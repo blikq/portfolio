@@ -1,4 +1,4 @@
-module github.com/blikq/porto
+module github.com/blikq/portfolio
 
 go 1.22
 
