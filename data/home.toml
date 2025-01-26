@@ -6,36 +6,36 @@
 [[section]]
   id      = "aboutme"
   enabled = true
-  weight  = 2
+  weight  = 1
 
 
 [[section]]
   id      = "skills"
   enabled = true
-  weight  = 3
+  weight  = 2
 
 [[section]]
   id      = "experience"
   enabled = true
-  weight  = 4
+  weight  = 3
 
 [[section]]
   id      = "custom"
   enabled = false
-  weight  = 5
+  weight  = 4
 
 [[section]]
   id      = "education"
   enabled = true
-  weight  = 6
+  weight  = 5
 
 [[section]]
   id      = "projects"
   enabled = true
-  weight  = 7
+  weight  = 6
 
 [[section]]
   id      = "testimonials"
   enabled = true
-  weight  = 8
+  weight  = 7
 
