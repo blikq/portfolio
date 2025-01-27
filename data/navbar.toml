@@ -1,6 +1,7 @@
 title = "My Portfolio"
 # logo  = "img/logo.svg"
 
+
 [[menu]]
   text        = "Home"
   description = "Welcome to my personal website"
@@ -16,5 +17,5 @@ title = "My Portfolio"
 [button]
   enabled = true
   text    = "Get my CV"
-  link    = "/files/cv.pdf"
+  link    = "files/cv.pdf"
   target  = "_blank"

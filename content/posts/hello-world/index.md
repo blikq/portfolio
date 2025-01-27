@@ -1,7 +1,7 @@
 ---
 title: 'Hello World'
 date: 2024-04-25T16:58:51+03:00
-tags: []
+tags: ['hello']
 image: 'index.png'
 draft: false
 ---
